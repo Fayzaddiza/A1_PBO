@@ -1,4 +1,4 @@
-package Posttest4;
+package Posttest6;
 
 public class barangLab {
 

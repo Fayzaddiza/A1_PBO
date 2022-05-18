@@ -1,10 +1,10 @@
-package Posttest4;
+package Posttest6;
 
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.io.IOException;
 
-public class Posttest4 {
+public class Posttest6 {
     static Scanner user = new Scanner(System.in);
     
     public static void main(String[] args) throws NumberFormatException, IOException{
